@@ -14,7 +14,7 @@ on:
     - cron: '25 * * * *'
     
   # 手动触发
-  workflow_dispatch:
+  # workflow_dispatch:
 
 jobs:
   start:
