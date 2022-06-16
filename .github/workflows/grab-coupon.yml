@@ -1,8 +1,7 @@
-name: 领红包
+name: getCoupons
 
 # https://docs.github.com/cn/actions/reference/events-that-trigger-workflows#workflow_dispatch
 on:
-  
   schedule:
     # https://crontab.guru/
     # UTC 时间，中国时区应减 8
